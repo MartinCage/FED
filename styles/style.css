@@ -20,6 +20,7 @@ button, summary {
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
+	--main-color: #ff6e0c;
 }
 
 
@@ -31,9 +32,3 @@ button, summary {
 /****************/
 
 /* jouw code */
-
-body {
-  color:var(--color-text);
-  background-color:var(--color-background);
-}
-
