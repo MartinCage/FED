@@ -128,7 +128,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  Wij hebben elkaars werk bekeken en beoordeeld. Zelf moet ik nog veel werk verrichten in de CSS. Ik heb Valena geholpen met haar CSS omdat een carousel niet helemaal werkte. Verder heb ik Jip uitgelegd hoe je het beste kunt beginnen met de start van zijn website. Ik heb verteld dat hij het beste met de HTML structuur kan beginnen en daarna vormgeven.
+  Wij hebben elkaars werk bekeken en beoordeeld. Zelf moet ik nog veel werk verrichten in de CSS. Ik heb Valena geholpen met haar CSS omdat een carousel niet helemaal werkte. Verder heb ik Jip uitgelegd hoe je het beste kunt beginnen met de start van zijn website. Ik heb verteld dat hij het beste met de HTML structuur kan beginnen en daarna vormgeven. Ook heb ik toegelicht hoe CSS flex 'order' werkt
 
 </details>
 
