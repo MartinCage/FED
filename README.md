@@ -104,8 +104,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="https://user-images.githubusercontent.com/118127943/203886473-c59f7f10-551e-497f-a0d8-b0937dcf4f6f.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="https://user-images.githubusercontent.com/118127943/203886135-662a0cc4-897b-42fe-8e0e-1b2b9494357b.png" width="375px" alt="breakdown van een dynamisch deel">
-
+  <img src="https://user-images.githubusercontent.com/118127943/203887956-0940e2d8-cd3e-4711-b1d0-1cb144efffd5.png" width="375px" alt="breakdown van een dynamisch deel">
+  
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
@@ -127,11 +127,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | idelene        | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | vraag over dit | en dit             | en ik dit    | en dan ik dat    |
-  | en over dat    | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Martijn        | Jip          | Valena   |
+  | ---            | ---                | ---          |
+  | vraag over dit | en dit             | en ik dit    |
+  | en over dat    | dit als er tijd is | nog een punt |
+  | ...            | ...                | ...          |
 
 
   ### Verslag van meeting
