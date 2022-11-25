@@ -114,8 +114,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Ik vind het lastig om met CSS grid te werken. Ik heb zelf veel ervaring met flex box en ik wil zelf ook veel leren over grid. Aankomend weekend ga ik een inhaalslag maken om mijn eerste pagina volledig vorm te geven met CSS.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -131,7 +130,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  Wij hebben elkaars werk bekeken en beoordeeld.
+  Wij hebben elkaars werk bekeken en beoordeeld. Zelf moet ik nog veel werk verrichten in de CSS. Ik heb Valena geholpen met haar CSS omdat een carousel niet helemaal werkte. Verder heb ik Jip uitgelegd hoe je het beste kunt beginnen met de start van zijn website. Ik heb verteld dat hij het beste met de HTML structuur kan beginnen en daarna vormgeven.
 
 </details>
 
