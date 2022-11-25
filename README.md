@@ -60,21 +60,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  Ik ben met een screenreader door de website gegaan. Deze leest alle informatie voor. 
+  Ik ben met een screenreader door de website gegaan. Deze leest alle informatie voor.
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
+  Hier korte omschrijving (met indien nodig afbeeldingen)
   
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Motoriek (shocks, elastiekjes)
-  
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
-  #### Visueel (brillen, contrast, kleurenblind, dark/light).
-  Elke bril had zijn eigen unieke 'belemmering'. Hierdoor kreeg ik een indruk wat mensen met beperkt zicht ervaren als ze een website bezoeken.
-  De eerste 
-  
+  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
+  Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen) 
 
 </details>
 
@@ -86,19 +93,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  
-  <img src="https://user-images.githubusercontent.com/118127943/203886476-e18aa12c-6652-4abe-b72e-325d0d80152c.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="https://user-images.githubusercontent.com/118127943/203886478-0cea0aab-11ea-478f-b5fd-5421f0a33c8b.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="https://user-images.githubusercontent.com/118127943/203886480-a1ee46c7-f7ee-4dd7-9dd3-7958bbd8c34f.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="https://user-images.githubusercontent.com/118127943/203886483-64efe994-4899-48ed-a4c5-eac636a25d8a.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="https://user-images.githubusercontent.com/118127943/203886487-bb86a87c-1f10-4a3d-8e3a-fac33abf367d.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="https://user-images.githubusercontent.com/118127943/203886488-18606721-89ee-4f5a-ab2b-73eb0ef3cc18.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="https://user-images.githubusercontent.com/118127943/203886490-e6e8dfc2-cda5-4021-bd44-864e9bfb1699.png" width="375px" alt="breakdown van de hele pagina">
-  <img src="https://user-images.githubusercontent.com/118127943/203886473-c59f7f10-551e-497f-a0d8-b0937dcf4f6f.png" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="https://user-images.githubusercontent.com/118127943/203887956-0940e2d8-cd3e-4711-b1d0-1cb144efffd5.png" width="375px" alt="breakdown van een dynamisch deel">
-  
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
@@ -120,11 +119,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Martijn        | Jip          | Valena   |
-  | ---            | ---                | ---          |
-  | vraag over dit | en dit             | en ik dit    |
-  | en over dat    | dit als er tijd is | nog een punt |
-  | ...            | ...                | ...          |
+  | idelene        | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | vraag over dit | en dit             | en ik dit    | en dan ik dat    |
+  | en over dat    | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting

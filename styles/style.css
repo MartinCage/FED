@@ -1,12 +1,19 @@
 /**************/
 /* CSS REMEDY */
 /**************/
+
 *, *::after, *::before {
   box-sizing:border-box;  
 }
 
 button, summary {
 	cursor: pointer;
+}
+
+
+@font-face {
+	font-family: "DunkinSans-Book";
+	src: url("../fonts/DunkinSans-Book.otf") format("opentype");
 }
 
 
@@ -32,3 +39,45 @@ button, summary {
 /****************/
 
 /* jouw code */
+body{
+	font-family: 'DunkinSans-Book', sans-serif;
+	margin: 0;
+}
+
+header{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid rgb(235, 235, 235);
+}
+
+header > p{
+	width: 100%;
+	order: -100;
+	text-align: center;
+	font-size: 0.7em;
+	background-color: var(--main-color);
+	color: var(--color-background);
+	margin: 0;
+	padding: 1em;
+}
+
+header button{
+	margin: 1.2em;
+	padding: .5em 1.1em .5em 1.1em;
+	border-radius: 1em;
+	border: none;
+}
+
+header button:first-of-type{
+	order: -50;
+}
+
+header a img{
+	width: 7em;
+}
+
+/* header button{
+	margin: 0 3em 0 3em;
+} */
