@@ -96,7 +96,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="https://user-images.githubusercontent.com/118127943/203885916-98473d28-7a88-4dee-9452-8eb5026750b9.png" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="[https://user-images.githubusercontent.com/118127943/203885916-98473d28-7a88-4dee-9452-8eb5026750b9.png](https://user-images.githubusercontent.com/118127943/203886047-ed6b4c49-0ace-46d5-8e9b-d29996a0d21a.png)" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
