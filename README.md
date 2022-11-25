@@ -60,7 +60,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  Ik ben met een screenreader door de website gegaan. Deze leest alle informatie voor.
+  Ik ben met een screenreader door de website gegaan. Deze leest alle informatie voor. 
 
 
   #### Muis en Toetsenbord 
@@ -71,7 +71,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
 
 
-  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
+  #### Visueel (brillen, contrast, kleurenblind, dark/light).
+  Elke bril had zijn eigen unieke 'belemmering'. Hierdoor kreeg ik een indruk wat mensen met beperkt zicht ervaren als ze een website bezoeken.
+  De eerste 
   
 
 </details>
