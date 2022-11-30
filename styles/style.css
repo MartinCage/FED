@@ -15,13 +15,10 @@ button, summary {
 	font-family: "DunkinSans-Book";
 	src: url("../fonts/DunkinSans-Book.otf") format("opentype");
 }
-<<<<<<< HEAD
 @font-face {
 	font-family: "DunkinSans-Display";
 	src: url("../fonts/DunkinSans-Display.otf") format("opentype");
 }
-=======
->>>>>>> f650c452304f559bddb8b429b9f9902e4e7924f2
 
 
 
@@ -55,7 +52,6 @@ body{
 	margin: 0;
 }
 
-<<<<<<< HEAD
 .main-link{
 	flex-basis: 100%;
 	text-align: center;
@@ -71,8 +67,6 @@ body{
 }
 
 
-=======
->>>>>>> f650c452304f559bddb8b429b9f9902e4e7924f2
 header{
 	display: flex;
 	flex-wrap: wrap;
@@ -94,11 +88,7 @@ header > p{
 
 header button{
 	margin: 1.2em;
-<<<<<<< HEAD
 	padding: .5em 1.1em;
-=======
-	padding: .5em 1.1em .5em 1.1em;
->>>>>>> f650c452304f559bddb8b429b9f9902e4e7924f2
 	border-radius: 1em;
 	border: none;
 }
@@ -114,7 +104,6 @@ header a img{
 /* header button{
 	margin: 0 3em 0 3em;
 } */
-<<<<<<< HEAD
 
 
 /* Main */
@@ -258,5 +247,3 @@ footer > nav ul li a, footer span{
 footer > nav ul li a{
 	text-decoration: none;
 }
-=======
->>>>>>> f650c452304f559bddb8b429b9f9902e4e7924f2
