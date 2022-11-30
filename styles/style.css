@@ -15,6 +15,13 @@ button, summary {
 	font-family: "DunkinSans-Book";
 	src: url("../fonts/DunkinSans-Book.otf") format("opentype");
 }
+<<<<<<< HEAD
+@font-face {
+	font-family: "DunkinSans-Display";
+	src: url("../fonts/DunkinSans-Display.otf") format("opentype");
+}
+=======
+>>>>>>> f650c452304f559bddb8b429b9f9902e4e7924f2
 
 
 
@@ -26,13 +33,17 @@ button, summary {
 :root {
 	/* startje */
 	--color-text:#111;
+	--nav-link-text: #ffffff;
+	--footer-text: #c1c1c1;
+
+	--cta-main-color: #f20c90;
+	--cta-secondary-main-color: #f950ad;
+
 	--color-background:#eee;
 	--main-color: #ff6e0c;
+	--nav-link-color: #ee4c25;
+	--main-section-color: #F5F5F5;
 }
-
-
-
-
 
 /****************/
 /* JOUW STYLING */
@@ -44,6 +55,24 @@ body{
 	margin: 0;
 }
 
+<<<<<<< HEAD
+.main-link{
+	flex-basis: 100%;
+	text-align: center;
+	background-color: var(--main-color);
+	padding: 1em;
+	border-radius: 5em;
+	margin: .2em 1em;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-family: 'DunkinSans-Display', sans-serif;
+	font-size: .8em;
+	color: var(--nav-link-text);
+}
+
+
+=======
+>>>>>>> f650c452304f559bddb8b429b9f9902e4e7924f2
 header{
 	display: flex;
 	flex-wrap: wrap;
@@ -65,7 +94,11 @@ header > p{
 
 header button{
 	margin: 1.2em;
+<<<<<<< HEAD
+	padding: .5em 1.1em;
+=======
 	padding: .5em 1.1em .5em 1.1em;
+>>>>>>> f650c452304f559bddb8b429b9f9902e4e7924f2
 	border-radius: 1em;
 	border: none;
 }
@@ -81,3 +114,149 @@ header a img{
 /* header button{
 	margin: 0 3em 0 3em;
 } */
+<<<<<<< HEAD
+
+
+/* Main */
+
+main{
+	padding: 1em;
+}
+
+main > section:nth-child(2) section:nth-child(2){
+	background-color: var(--cta-main-color);
+	border-radius: 1em;
+	padding: 1em;
+}
+
+main > section section:nth-child(2) p:first-of-type{
+	color: var(--nav-link-text);
+	font-family: 'DunkinSans-Display', sans-serif;
+	font-size: 2.8em;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+main > section section:nth-child(2) p:last-of-type{
+	color: var(--nav-link-text);
+	font-size: .7em;
+}
+
+main > section section:nth-child(2) button{
+	font-family: 'DunkinSans-Display', sans-serif;
+	border: none;
+	border-radius: .7em;
+	padding: .8em;
+	width: 49%;
+	text-transform: uppercase;
+}
+
+main > section section:nth-child(2) button:first-of-type{
+	background-color: var(--nav-link-text);
+	color: var(--cta-main-color);
+}
+
+main > section section:nth-child(2) button:last-of-type{
+	background-color: var(--cta-secondary-main-color);
+	color: var(--nav-link-text);
+}
+
+main > section:nth-child(3) section:last-of-type, main > section:nth-child(4), main > section:nth-child(5){
+	display: flex;
+	flex-wrap: wrap;
+}
+
+main span{
+	text-transform: uppercase;
+	flex-basis: 100%;
+	font-family: 'DunkinSans-Display', sans-serif;
+	font-size: 2em;
+	line-height: 0.9em;
+}
+
+main > section:nth-child(3) h2, main > section:nth-child(5) h2{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+main > section:nth-child(3) h2 span:first-of-type, main > section:nth-child(3) h2 span:last-of-type,
+main > section:nth-child(5) h2 span:first-of-type{
+	color: var(--cta-main-color);
+}
+
+main > section:nth-child(3) h2 span:nth-child(2), main > section:nth-child(5) h2 span:last-of-type{
+	color: var(--main-color);
+}
+
+
+/* Footer */
+
+footer div{
+	background-color: var(--main-color);
+}
+
+footer div nav ul{
+	padding: 0;
+	margin: 0;
+}
+
+footer div nav ul li{
+	list-style-type: none;
+}
+
+footer div nav:first-of-type ul{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+footer div nav:first-of-type ul li{
+	flex-basis: 100%;
+	text-align: center;
+	background-color: var(--nav-link-color);
+	padding: 1em;
+	border-radius: 5em;
+	margin: .2em 1em;
+}
+
+footer div nav:first-of-type ul li a{
+	background-color: transparent;
+}
+
+footer div nav:last-of-type ul{
+	display: flex;
+	justify-content: center;
+	gap: 1em;
+}
+
+footer div nav:last-of-type ul li a{
+	color: var(--main-color);
+	background-color: var(--nav-link-text);
+}
+
+footer > nav{
+	background-color: var(--main-section-color);
+	padding: 0.2em;
+}
+
+footer > nav ul{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	padding: 1em;
+}
+
+footer > nav ul li{
+	list-style-type: none;
+	font-size: .6em;
+}
+
+footer > nav ul li a, footer span{
+	color: var(--footer-text);
+}
+
+footer > nav ul li a{
+	text-decoration: none;
+}
+=======
+>>>>>>> f650c452304f559bddb8b429b9f9902e4e7924f2
