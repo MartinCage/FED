@@ -150,8 +150,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Martijn      | Valena         | Jip    |
   | ---            | ---                | --- |
-  | Social media iconen op de juiste manier stijlen  | ---------------------- | --- |
-  | Hoe verstop je de H1? | --------------------- | --- |
+  | Social media iconen op de juiste manier stijlen  | Ik heb nog moeite met mijn filter knop dus daar zou ik ook wel meer hulp bij willen hebben | --- |
+  | Hoe verstop je de H1? | Ik zou wel meer willen weten over de tabel en wat de eisen zijn voor de tweede pagina | --- |
+  | --- | Voor de rest ga ik aan de slag met Javascript en het verder uitwerken van animatie. | --- |
 
   ### Verslag van meeting
   Tijdens de meeting heeft Valena mij meer verteld over een aria-label, heeft ze laten zien wat :after doet en ben ik teweten gekomen dat fonts in een CSS variabele mogen staan.
