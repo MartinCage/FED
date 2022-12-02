@@ -154,7 +154,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | Hoe verstop je de H1? | --------------------- | --- |
 
   ### Verslag van meeting
-  Tijdens de meeting heeft Valena mij meer verteld over een aria-label, heeft ze laten zien wat :after doet en ben ik teweten gekomen dat fonts in een css variabele mogen staan.
+  Tijdens de meeting heeft Valena mij meer verteld over een aria-label, heeft ze laten zien wat :after doet en ben ik teweten gekomen dat fonts in een CSS variabele mogen staan.
 
 </details>
 
