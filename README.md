@@ -142,26 +142,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Tot nu toe gaat het goed met mijn website. Ik moet alleen de secties nog vormgeven. Wat nog wel een belangrijk is zijn de navigatie en het daadwerkelijk responsive maken. Ik ga daar dit weekend hard mee aan de slag zodat ik volgende week kan gebruiken om veel vragen te stellen. Ik heb zelf hulp nodig met het maken van de navigatie en het verplaatsen van de content bij breakpoints.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  | Martijn      | Valena         | Jip    |
+  | ---            | ---                | --- |
+  | Social media iconen op de juiste manier stijlen  | ---------------------- | --- |
+  | Hoe verstop je de H1? | --------------------- | --- |
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  Tijdens de meeting heeft Valena mij meer verteld over een aria-label, heeft ze laten zien wat :after doet en ben ik teweten gekomen dat fonts in een css variabele mogen staan.
 
 </details>
 
