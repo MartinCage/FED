@@ -60,22 +60,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  Ik ben met een screenreader door de website gegaan. Deze leest alle informatie voor. 
-
+  Ik ben met een screenreader door de website gegaan. Deze leest alle informatie voor. Het gebruik van een screenreader was nieuw voor mij en een uitdaging om erachter te komen hoe alles werkt. Ik heb meer inzichten gekregen in hoe een persoon met screenreader een website ervaart.
 
   #### Muis en Toetsenbord 
-  
-
+  Ik ben door de website van Dunkin heen gegaan met d.m.v. muis en toetsenbord. Opvallend is dat als men alleen met een toetsenbord door de website heen gaat er belangrijke informatie wordt overgeslagen. In mijn versie van de website ga ik dit zeker verbeteren door alle relevante informatie toegangkelijk te maken voor gebruikers met een visuele beperking.
 
   #### Motoriek (shocks, elastiekjes)
-  
+  We kregen een schokband op onze armen geplakt en hebben geprobeerd om gebruik te maken van de website. Wat mij opviel is dat simpele acties veel tijd kunnen kosten. Daarom moeten acties zo min mogelijk moeite kosten om tot een eindresultaat te komen.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light).
   Elke bril had zijn eigen unieke 'belemmering'. Hierdoor kreeg ik een indruk wat mensen met beperkt zicht ervaren als ze een website bezoeken.
-  De eerste 
-  
-
+  Belangrijke uitgangspunten zijn:
+  - Dark mode voor mensen die gevoelig zijn voor licht
+  - Duidelijk contrast, vormen zijn duidelijk en men kan zien waar ze beginnen en eindigen
+  - Duidelijke labels bij elementen
+ 
 </details>
 
 
