@@ -42,9 +42,15 @@ main section ul li a {
     color: var(--text-brown);
 }
 
-main section ul li a img{
+main section ul li a figure{
+    margin: 0;
     width: 100%;
+    display: flex;
+}
+
+main section ul li a figure img{
     border-radius: 1em;
+    height: 100%;
 }
 
 main section ul li a h3{

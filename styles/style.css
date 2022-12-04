@@ -34,7 +34,7 @@ img{
     margin: .2em 1em;
     text-transform: uppercase;
     text-decoration: none;
-    font-size: .8em;
+    font-size: 1em;
     color: var(--nav-link-text);
 }
 
@@ -64,6 +64,8 @@ img{
 	--nav-link-color: #ee4c25;
 	--main-section-color: #F5F5F5;
 	--text-brown: #512d00;
+
+	--title-font: 'DunkinSans-Display', sans-serif;
 }
 
 body{
@@ -72,14 +74,14 @@ body{
 }
 
 h1, h2, h3, span, .main-link, button{
-	font-family: 'DunkinSans-Display', sans-serif;
+	font-family: var(--title-font);
 	text-transform: uppercase;
 }
 
 header{
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-between;
+	justify-content: space-around;
 	align-items: center;
 	border-bottom: 1px solid rgb(235, 235, 235);
 }
@@ -110,70 +112,202 @@ header a img{
 	width: 7em;
 }
 
+header nav {
+	font-family: var(--title-font);
+}
+
+header nav ul{
+	background-color: var(--nav-link-text);
+	margin: 0;
+	padding: 0 1em 0;
+	list-style-type: none;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 6em;
+	bottom: 0;
+	display: flex;
+    flex-direction: column;
+	justify-content: center;
+    text-align: center;
+    gap: 1em;
+	transform:translateY(100%);
+	transition: .3s ease;
+}
+
+nav.toonMenu ul{
+	transform: translateY(0);
+}
+
+header nav li a{
+	color: var(--text-brown);
+	font-size: 1.8em;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+@media (min-width: 64em){
+	header > a{
+		order: -10;
+	}
+
+	header button:first-of-type{
+		order: -5;
+	}
+
+	header nav{
+		order: -8;
+	}
+
+    header nav ul{
+        position: static;
+        transform: none;
+		background: none;
+		flex-direction: unset;
+		transition: none;
+    }
+
+	header nav ul li a{
+		font-size: 1em;
+	}
+
+	header nav button{
+		display: none;
+	}
+}
+
+
+
+
+
+
 /* Footer */
 
 footer div{
     background-color: var(--main-color);
 }
 
+footer div figure{
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+footer div figure img{
+	width: 2em;
+	background-color: var(--nav-link-text);
+	border-radius: 50%;
+	margin: .5em;
+}
+
 footer div nav ul{
     padding: 0;
     margin: 0;
 }
-  
+
 footer div nav ul li{
-      list-style-type: none;
+	list-style-type: none;
 }
   
 footer div nav:first-of-type ul{
-      display: flex;
-      flex-wrap: wrap;
+	display: flex;
+	flex-wrap: wrap;
 }
   
 footer div nav:first-of-type ul li{
-      flex-basis: 100%;
-      text-align: center;
-      background-color: var(--nav-link-color);
-      padding: 1em;
-      border-radius: 5em;
-      margin: .2em 1em;
+	flex-basis: 100%;
+	text-align: center;
+	background-color: var(--nav-link-color);
+	padding: 1em;
+	border-radius: 5em;
+	margin: .2em 1em;
 }
   
 footer div nav:first-of-type ul li a{
-      background-color: transparent;
+	background-color: transparent;
+}
+
+footer div nav:last-of-type{
+	padding: 1em;
 }
   
 footer div nav:last-of-type ul{
-      display: flex;
-      justify-content: center;
-      gap: 1em;
+	display: flex;
+	justify-content: center;
+	gap: 1em;
+}
+
+footer div nav:last-of-type ul li{
+	list-style-type: none;
+    width: 2em;
+    background-color: var(--nav-link-text);
+    border-radius: 50%;
+    aspect-ratio: 1/1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	margin: 0;
 }
   
-footer div nav:last-of-type ul li a{
-      color: var(--main-color);
-      background-color: var(--nav-link-text);
+footer div nav:last-of-type ul li a img{
+	height: .8em;
 }
   
 footer > nav{
-      padding: 0.2em;
+	padding: 0.2em;
 }
   
 footer > nav ul{
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      padding: 1em;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 1em;
+    gap: 1em;
+	margin: 0;
 }
   
 footer > nav ul li{
-      list-style-type: none;
-      font-size: .6em;
+	list-style-type: none;
+	font-size: .8em;
 }
   
 footer > nav ul li a, footer span{
-      color: var(--footer-text);
+	color: var(--footer-text);
+	font-size: .8em;
 }
   
 footer > nav ul li a{
-      text-decoration: none;
+	text-decoration: none;
+}
+
+@media (min-width: 48em){
+	footer div{
+		display: flex;
+		align-items: center;
+		justify-content: space-around;
+	}
+
+	footer div figure{
+		background-color: white;
+		aspect-ratio: 1/1;
+		border-radius: 50%;
+		display: flex;
+	}
+
+	footer div figure img{
+		width: 2em;
+	}
+
+	footer div nav:first-of-type{
+		display: flex;
+		flex-wrap: nowrap;
+	}
+	footer div nav:first-of-type ul li{
+		display: flex;
+		flex-basis: unset;
+		padding: 0;
+		background-color: transparent;
+		margin: 0;
+	}
 }
