@@ -77,6 +77,10 @@ h1, h2, h3, span, .main-link, button{
 	text-transform: uppercase;
 }
 
+h2{
+	margin: 0;
+}
+
 header{
 	display: flex;
 	flex-wrap: wrap;

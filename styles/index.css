@@ -95,30 +95,39 @@ main > section ul li:last-of-type {
     height: 21em;
 }
 
-@media (min-width: 30em){
-    main{
-        padding: 1em;
-    }
 
-    main > section:nth-child(2) ul {
-        grid-template-columns: 5fr 3fr;
-    }
-
-    main > section:nth-child(2) ul li:nth-child(1){
-        grid-row-start: 1;
-        grid-row-end: 3;
-    }
-}
 
 /* Second section */
 
 /* Derde section */
 
+main > section:nth-child(3){
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    grid-template-rows: 1fr fit-content;
+}
+
 main > section:nth-child(3) h2{
     font-size: 1.7em;
+    width: 60%;
 }
 
 /* Vierde section */
+
+main > section:nth-child(4) section{
+    display: flex;
+    flex-direction: column;
+}
+
+main > section:nth-child(4) a{
+    height: 21em;
+}
+
+main > section:nth-child(4) a img{
+    object-fit: cover;
+    display: block;
+    height: 100%;
+}
 
 main > section:nth-child(4) h2{
     color: var(--main-color);
@@ -135,19 +144,16 @@ main > section:nth-child(3), main > section:nth-child(4), main > section:nth-chi
     flex-wrap: wrap;
 }
 
-main > section:nth-child(3){
-    margin: 2em 0;
-}
-
-main section ol{
+main > section ol{
     padding: 0;
+    padding-left: .3em;
 }
 
-main section ol li{
+main > section ol li{
     display: flex;
     border-radius: 1em;
     margin: 1em 0;
-    background-color: var(--main-section-color);
+    background-color: var(--main-section-color)
 }
 
 main > section:nth-child(3) section div:first-of-type{
@@ -175,22 +181,6 @@ main > section:nth-child(3) section p{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 main > section:nth-child(3) h2, main > section:nth-child(5) h2{
     display: flex;
     flex-wrap: wrap;
@@ -205,9 +195,6 @@ main > section:nth-child(3) h2 span:nth-child(2), main > section:nth-child(5) h2
     color: var(--main-color);
 }
 
-main > section:nth-child(4) a:first-of-type{
-    height: 23em;
-}
 
 main > section:nth-child(4) img{
     border-radius: 1em;
@@ -322,3 +309,46 @@ main > section:last-of-type article button{
     margin: 1.5em;
 }
   
+
+
+@media (min-width: 30em){
+    main{
+        padding: 1em;
+    }
+
+    main section ol li{
+        margin-left: 2em;
+    }
+
+    main > section:nth-child(2) ul {
+        grid-template-columns: 5fr 3fr;
+    }
+
+    main > section:nth-child(2) ul li:nth-child(1){
+        grid-row-start: 1;
+        grid-row-end: 3;
+    }
+
+    main > section:nth-child(3){
+        margin: 2em 0;
+        display: grid;
+        grid-template-columns: 2fr 3fr;
+        grid-template-rows: 1fr fit-content;
+    }
+    
+    main > section:nth-child(3) section{
+        grid-row-start: 1;
+        grid-row-end: 3;
+        grid-column-start: 2;
+        height: 100%;
+    }
+
+    main > section:nth-child(3) h2{
+        align-self: end;
+    }
+
+    main > section:nth-child(3) a{
+        height: fit-content;
+    }
+
+}
