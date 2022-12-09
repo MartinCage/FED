@@ -214,7 +214,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Hiernaast heb ik een responsive footer en navigatie gemaakt, dit ging goed en ben ik best trots op dat dit is gelukt.
   
   Navigatie:
-  ![image](https://user-images.githubusercontent.com/118127943/206673575-8c555586-5476-4c2c-ba5b-6b6fbdfde6a1.png)
+  ![image](https://user-images.githubusercontent.com/118127943/206674000-77f2b270-5b3a-4d46-b54d-7ef1d1ff2bf0.png)
   ![image](https://user-images.githubusercontent.com/118127943/206673645-9e0353f0-0fdb-4d69-af46-8c0aaa7b2e34.png)
   
   Footer:
