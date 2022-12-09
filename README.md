@@ -230,11 +230,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Martijn     | Valena          |
+  | ---            | ---                |
+  | Op de blogs pagina wil ik dat de kolommen allemaal even grote afbeeldingen hebben  | Ik zou graag hulp willen met mijn social media iconen en hoe ik die van kleur makkelijk kan laten veranderen. Doordat dit niet standaard knoppen of links zijn begrijp ik niet helemaal hoe ik dat kan oplossen. Daarbij weet ik niet precies hoe ik een filtermenu kan toepassen en stylen binnen mijn pagina. Voor de rest gaat het aardig goed en denk ik dat ik zelfstandig aan de slag kan gaan.            |
+  | Ik wil op de index pagina de koffie plaatjes naast elkaar zetten. Hier heb ik hulp nodig bij het positioneren en responsive maken |  |
 
 
   ### Verslag van meeting
