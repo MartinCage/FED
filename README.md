@@ -206,26 +206,40 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik vond het lastig om bepaalde delen content op de juiste manier te plaatsen met grid. Uiteindelijk is mij dit gelukt.<br>
+  
+  ![image](https://user-images.githubusercontent.com/118127943/206673084-39824ed4-2468-4492-9388-0ce117850d7c.png)
+  ![image](https://user-images.githubusercontent.com/118127943/206673270-f8e93f72-0f66-4800-ab4e-8367d0e6ab3a.png)<br>
+  
+  Hiernaast heb ik een responsive footer en navigatie gemaakt, dit ging goed en ben ik best trots op dat dit is gelukt.<br>
+  
+  Navigatie:<br>
+  ![image](https://user-images.githubusercontent.com/118127943/206674000-77f2b270-5b3a-4d46-b54d-7ef1d1ff2bf0.png)
+  ![image](https://user-images.githubusercontent.com/118127943/206673645-9e0353f0-0fdb-4d69-af46-8c0aaa7b2e34.png)
+  
+  Footer:<br>
+  ![image](https://user-images.githubusercontent.com/118127943/206673737-ead76fa3-49e8-459a-9adc-280071d8c922.png)
+  ![image](https://user-images.githubusercontent.com/118127943/206673786-b1dae772-1ed8-49c6-b7a8-df31bd0460ab.png)
+
+
+
+
+
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Martijn     | Valena          |
+  | ---            | ---                |
+  | Op de blogs pagina wil ik dat de kolommen allemaal even grote afbeeldingen hebben  | Ik zou graag hulp willen met mijn social media iconen en hoe ik die van kleur makkelijk kan laten veranderen. Doordat dit niet standaard knoppen of links zijn begrijp ik niet helemaal hoe ik dat kan oplossen. Daarbij weet ik niet precies hoe ik een filtermenu kan toepassen en stylen binnen mijn pagina. Voor de rest gaat het aardig goed en denk ik dat ik zelfstandig aan de slag kan gaan.            |
+  | Ik wil op de index pagina de koffie plaatjes naast elkaar zetten. Hier heb ik hulp nodig bij het positioneren en responsive maken |  |
+  | Hoe maak je de navbar sticky? | |
+  | Hoe maak ik de badge over een section | |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Ik heb met Valena gekeken hoe we toepasselijke svg's kunnen vinden die we van kleur kunnen laten veranderen, maar helaas hebben we het probleem niet kunnen verhelpen.
 
 </details>
 
