@@ -210,6 +210,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   ![image](https://user-images.githubusercontent.com/118127943/206673084-39824ed4-2468-4492-9388-0ce117850d7c.png)
   ![image](https://user-images.githubusercontent.com/118127943/206673270-f8e93f72-0f66-4800-ab4e-8367d0e6ab3a.png)
+  
+  Hiernaast heb ik een responsive footer en navigatie gemaakt, dit ging goed en ben ik best trots op dat dit is gelukt.
+  
+  Navigatie:
+  ![image](https://user-images.githubusercontent.com/118127943/206673575-8c555586-5476-4c2c-ba5b-6b6fbdfde6a1.png)
+  ![image](https://user-images.githubusercontent.com/118127943/206673645-9e0353f0-0fdb-4d69-af46-8c0aaa7b2e34.png)
+  
+  Footer:
+  ![image](https://user-images.githubusercontent.com/118127943/206673737-ead76fa3-49e8-459a-9adc-280071d8c922.png)
+  ![image](https://user-images.githubusercontent.com/118127943/206673786-b1dae772-1ed8-49c6-b7a8-df31bd0460ab.png)
+
+
+
 
 
 
