@@ -234,7 +234,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | ---            | ---                |
   | Op de blogs pagina wil ik dat de kolommen allemaal even grote afbeeldingen hebben  | Ik zou graag hulp willen met mijn social media iconen en hoe ik die van kleur makkelijk kan laten veranderen. Doordat dit niet standaard knoppen of links zijn begrijp ik niet helemaal hoe ik dat kan oplossen. Daarbij weet ik niet precies hoe ik een filtermenu kan toepassen en stylen binnen mijn pagina. Voor de rest gaat het aardig goed en denk ik dat ik zelfstandig aan de slag kan gaan.            |
   | Ik wil op de index pagina de koffie plaatjes naast elkaar zetten. Hier heb ik hulp nodig bij het positioneren en responsive maken |  |
-  | Hoe maak je de navbar sticky? |
+  | Hoe maak je de navbar sticky? | |
+  | Hoe maak ik de badge over een section | |
 
 
   ### Verslag van meeting
