@@ -237,12 +237,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Ik heb met Valena gekeken hoe we toepasselijke svg's kunnen vinden die we van kleur kunnen laten veranderen, maar helaas hebben we het probleem niet kunnen verhelpen.
 
 </details>
 
