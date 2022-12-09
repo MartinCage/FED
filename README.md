@@ -207,6 +207,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   Ik vond het lastig om bepaalde delen content op de juiste manier te plaatsen met grid. Uiteindelijk is mij dit gelukt.
+  
   ![image](https://user-images.githubusercontent.com/118127943/206673084-39824ed4-2468-4492-9388-0ce117850d7c.png)
   ![image](https://user-images.githubusercontent.com/118127943/206673270-f8e93f72-0f66-4800-ab4e-8367d0e6ab3a.png)
 
