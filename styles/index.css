@@ -5,7 +5,7 @@
 /* Main */
 
 main{
-    padding: 1em;
+    padding: 0 1em;
 }
 
 main span{
@@ -13,6 +13,10 @@ main span{
     flex-basis: 100%;
     font-size: 2em;
     line-height: 0.9em;
+}
+
+main > section{
+    margin: 2em 0;
 }
 
 /* First section */
@@ -114,12 +118,18 @@ main > section:nth-child(3) h2{
 
 /* Vierde section */
 
+main > section:nth-child(4){
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1em;
+}
+
 main > section:nth-child(4) section{
     display: flex;
     flex-direction: column;
 }
 
-main > section:nth-child(4) a{
+main > section:nth-child(4) a:first-of-type{
     height: 21em;
 }
 
@@ -139,7 +149,7 @@ main > section:nth-child(4) p{
     font-size: .8em;
 }
 
-main > section:nth-child(3), main > section:nth-child(4), main > section:nth-child(5) section:first-of-type{
+main > section:nth-child(3){
     display: flex;
     flex-wrap: wrap;
 }
@@ -203,6 +213,12 @@ main > section:nth-child(4) img{
 main > section:nth-child(5){
     display: grid;
     gap: 3em;
+}
+
+main > section:nth-child(5) section:first-of-type{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1em;
 }
 
 main > section:nth-child(5) section:last-of-type a{
