@@ -81,12 +81,21 @@ h2{
 	margin: 0;
 }
 
+a{
+	text-decoration: none;
+}
+
 header{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
 	align-items: center;
 	border-bottom: 1px solid rgb(235, 235, 235);
+	position: fixed;
+	top: 0;
+    z-index: 100;
+    background-color: var(--nav-link-text);
+    width: 100%;
 }
 
 header > p{
@@ -181,14 +190,30 @@ header nav li a{
 }
 
 
+/* Main */
 
+main{
+	position: relative;
+	top: 5em;
+}
+
+main section:first-of-type{
+	margin-top: 2.5em;
+}
 
 
 
 /* Footer */
 
+footer{
+	position: relative;
+	top: 5em;
+}
+
 footer div{
     background-color: var(--main-color);
+	position: relative;
+	height: 24em;
 }
 
 footer div figure{
@@ -196,13 +221,31 @@ footer div figure{
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	position: absolute;
+    left: calc(50% - 9em/2);
+    top: -4.5em;
 }
 
 footer div figure img{
-	width: 2em;
 	background-color: var(--nav-link-text);
 	border-radius: 50%;
 	margin: .5em;
+	display: block;
+    width: 8em;
+    height: 8em;
+    transform: rotate(-20deg);
+    box-shadow: 0.1em 0.2em 0.4em #00000057;
+}
+
+footer div nav:first-of-type{
+	position: absolute;
+    bottom: 4em;
+}
+footer div nav:last-of-type{
+	position: absolute;
+    bottom: 0;
+    left: calc(50% - 5em);
+    width: 10em;
 }
 
 footer div nav ul{
@@ -286,6 +329,18 @@ footer > nav ul li a{
 }
 
 @media (min-width: 48em){
+	header{
+		position: unset;
+	}
+
+	main section:first-of-type{
+		margin-top: 1.5em;
+	}	
+
+	main, footer{
+		top: 0;
+	}
+
 	footer div{
 		display: flex;
 		align-items: center;
