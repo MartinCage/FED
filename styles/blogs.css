@@ -11,12 +11,28 @@ main h2 em{
     color: var(--cta-main-color);
     font-style: normal;
 }
-
 main form{
     display: grid;
-    gap: 1em;
+    gap: 0.5em;
     margin-bottom: 3em;
 }
+
+main form input::placeholder{
+    color: var(--input-text-color);
+}
+
+main form button{
+    color: var(--cta-main-color);
+    background-color: var(--nav-link-text);
+    text-align: left;
+}
+main form input, main form button{
+    border-radius: 2em;
+    border: 2px solid black;
+    padding: 0.5em 1.5em;
+    font-family: var(--title-font);
+}
+
 
 main section ul{
     display: grid;
