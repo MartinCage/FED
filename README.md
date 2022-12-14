@@ -277,10 +277,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
-  1. bron 1
-  2. bron 2
-  3. ...
+  Hier heb ik alle illustraties vandaan
+  https://www.dunkin.nl/blog
+  
+  Om 2 woorden onder elkaar te krijgen heb ik word-spacing opgezocht. Ik wilde geen spans gebruiken
+  https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing
+  
+  Om de kleur van de zoek balk te veranderen heb ik ::placeholder opgezocht
+  https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder
 
 </details>
