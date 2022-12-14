@@ -169,30 +169,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 8e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is). 
+  
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Ik heb mijn eigen website doorlopen d.m.v. een screenreader. Wat mij opviel is dat sommige kopjes werden overgeslagen. Dit kwam omdat sommige kopjes een paragraaf waren en geen kopje.
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Ik had de volledige HTML structuur van de website al gemaakt. Deze is zeer toegankelijk voor de gebruiker en er ontbraken geen elementen.
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Voor mensen met Parkinson is het belangrijk dat interactie met elementen makkelijk is. Een manier om dit gebruiksvriendelijk te maken is om elementen groot te maken.
+  Zo heb ik het icoon om de taal te selecteren groter gemaakt. Taal is een van de belangrijkste acties op de site en moet makkelijk te bereiken zijn.
+  
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  In de les hebben we getest met verschillende brillen die visuele berperkingen simuleren. Ik heb gemerkt dat ik mijn hoofd erg moet draaien of heel dicht op mijn scherm moet zitten om tekst goed te kunnen lezen. Gelukkig bevat de website veel grote koppen en is het een makkelijk leesbaar lettertype.
 
 </details>
 
