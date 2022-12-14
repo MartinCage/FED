@@ -1,5 +1,13 @@
 /* Globale main */
 
+main section{
+    margin: 1em 0;
+}
+
+main section:first-of-type{
+    margin-top: 2em;
+}
+
 main section ol{
     padding: 0;
     padding-left: .3em;
@@ -29,7 +37,7 @@ main > section:first-of-type ul{
 }
 
 main > section:first-of-type ul li{
-    border-radius: 1.3em;
+    border-radius: 0.7em;
     position: relative;
 }
 
@@ -58,7 +66,7 @@ main > section:first-of-type ul li:first-of-type a img:first-of-type{
 }
 
 main > section:first-of-type ul li:first-of-type a img:nth-child(3){
-    left: calc(50% - 25%);
+    left: calc(50% - 4.75em);
     width: 9.5em;
     z-index: 10;
     bottom: -8em;
@@ -68,7 +76,7 @@ main > section:first-of-type ul li:first-of-type a img:last-of-type{
     right: 1em;
 }
 
-main > section:first-of-type ul li:first-of-type a p, main > section:first-of-type ul li:last-of-type a p{
+main > section:first-of-type ul li:first-of-type a p, main > section:first-of-type ul li:last-of-type a h2{
     color: var(--nav-link-text);
     font-size: 2.5em;
     font-family: var(--title-font);
@@ -92,7 +100,7 @@ main > section:first-of-type ul li:last-of-type a img{
     transform: scale(1.5);
 }
 
-main > section ul li:nth-child(2) p:first-of-type{
+main > section ul li:nth-child(2) h2{
     color: var(--nav-link-text);
     font-size: 2.8em;
     text-align: center;
@@ -246,7 +254,7 @@ main > section:nth-child(3) h2 span:nth-child(2), main > section:nth-child(5) h2
 
 main > section:nth-child(5){
     display: grid;
-    gap: 3em;
+    /* gap: 3em; */
 }
 
 main > section:nth-child(5) section:first-of-type{
@@ -347,6 +355,7 @@ main > section:last-of-type article a{
     border-radius: 50%;
     border: .7em solid var(--nav-link-text);
     overflow: hidden;
+
 }
 
 main > section:last-of-type article a img{
@@ -378,11 +387,44 @@ main > section:last-of-type article button{
 
 @media (min-width: 30em){
     main{
-        padding: 1em;
+        padding: 0 4em;
     }
 
-    main section ol li{
-        margin-left: 2em;
+    main > section:first-of-type > ul{
+        height: 30em;
+    }
+
+    main > section:first-of-type ul li:first-of-type{
+        height: 100%;
+    }
+
+    main > section:first-of-type ul li:nth-child(2) button{
+        width: 48.5%;
+    }
+
+    main > section:first-of-type ul li:first-of-type a img:nth-child(3){
+        width: 10.5em;
+        bottom: -4em;
+    }
+    main > section:first-of-type ul li:first-of-type a img:first-of-type{
+        left: 2em;
+        width: 9em;
+    }
+
+    main > section:first-of-type ul li:first-of-type a p{
+        font-size: 3.5em;
+    }
+
+    main > section:first-of-type ul li:first-of-type a img:last-of-type{
+        width: 9em;
+    }
+
+    main section ol li:nth-child(2){
+        margin: 2em;
+    }
+
+    main section ol li:nth-child(1), main section ol li:nth-child(3){
+        margin-left: 4em;
     }
 
     main > section:nth-child(2) ul {
@@ -414,6 +456,84 @@ main > section:last-of-type article button{
 
     main > section:nth-child(3) a{
         height: fit-content;
+        align-self: center;
     }
 
+    main > section:nth-child(4){
+        grid-template-columns: 1fr 1fr;
+        grid-row-gap: 0;
+        grid-column-gap: 1em;
+    }
+
+    main > section:nth-child(4) > a:first-of-type{
+        grid-column-start: 2;
+        grid-row-start: 1;
+        grid-row-end: 4;
+    }
+    main > section:nth-child(4) h2{
+        align-self: flex-end;
+    }
+    main > section:nth-child(4) > p{
+        height: fit-content;
+        align-self: center;
+    }
+
+    main > section:nth-child(4) > button{
+        height: fit-content;
+        width: 10em;
+    }
+    main > section:nth-child(4) figure{
+        bottom: 5em;
+        right: 16.5em;
+        width: 5em;
+    }
+    main > section:nth-child(4) figure img{
+        width: 3em;
+    }
+
+    main > section:nth-child(4) a:last-of-type{
+        height: fit-content;
+        width: 10em
+    }
+
+    main > section:last-of-type article{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+        gap: 0.2em;
+        margin: 1em;
+    }
+
+    main > section:last-of-type article h2{
+        grid-row-start: 1;
+        grid-column-start: 2;
+    }
+
+    main > section:last-of-type article p{
+        grid-row-start: 2;
+        grid-column-start: 2;
+    }
+
+    main > section:last-of-type article button{
+        grid-column-start: 2;
+        grid-row-start: 3;
+        margin: 0;
+    }
+
+    main > section:last-of-type article h2, main > section:last-of-type article p, main > section:last-of-type article button{
+        justify-self: flex-start;
+    }
+    
+    main > section:last-of-type article a{
+        grid-row-start: 1;
+        grid-row-end: 4;
+    }
+}
+
+@media (min-width: 64em){
+    main{
+        padding: 0 8em;
+    }
+    main > section:nth-child(4) figure{
+        right: 21em;
+    }
 }

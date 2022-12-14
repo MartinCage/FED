@@ -183,10 +183,6 @@ main{
 	padding: 0 1em;
 }
 
-main section:first-of-type{
-	margin-top: 2.5em;
-}
-
 main span{
     text-transform: uppercase;
     flex-basis: 100%;
@@ -194,9 +190,6 @@ main span{
     line-height: 0.9em;
 }
 
-main > section{
-    margin: 2em 0;
-}
 
 /* - Footer - */
 
@@ -328,12 +321,8 @@ footer > nav ul li a{
 @media (min-width: 48em){
 	header{
 		position: unset;
-	}
-
-	main section:first-of-type{
-		margin-top: 1.5em;
 	}	
-
+	
 	main, footer{
 		top: 0;
 	}
@@ -342,22 +331,20 @@ footer > nav ul li a{
 		display: flex;
 		align-items: center;
 		justify-content: space-around;
+		height: 4em;
 	}
 
 	footer div figure{
-		background-color: var(--nav-link-text);
 		aspect-ratio: 1/1;
 		border-radius: 50%;
 		display: flex;
-	}
-
-	footer div figure img{
-		width: 2em;
+		position: unset;
 	}
 
 	footer div nav:first-of-type{
 		display: flex;
 		flex-wrap: nowrap;
+		position: unset;
 	}
 	footer div nav:first-of-type ul li{
 		display: flex;
@@ -365,6 +352,13 @@ footer > nav ul li a{
 		padding: 0;
 		background-color: transparent;
 		margin: 0;
+	}
+	footer div nav:last-of-type{
+		position: unset;
+	}
+	footer div figure img{
+		width: 6em;
+		height: 6em;
 	}
 }
 
@@ -395,4 +389,6 @@ footer > nav ul li a{
 	header nav button{
 		display: none;
 	}
+
+
 }
