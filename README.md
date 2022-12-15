@@ -263,10 +263,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Normaal menu<br>
   
   Ook heb ik geleerd hoe je d.m.v. 'css order' elementen kan verplaatsen en hoe je elementen onzichtbaar maakt d.m.v. de bron: a11yproject
-  ![header-order](https://user-images.githubusercontent.com/118127943/207941535-3231bfa7-8e9f-4c1e-9193-617a90c20a9e.png)
+  ![header-order](https://user-images.githubusercontent.com/118127943/207941535-3231bfa7-8e9f-4c1e-9193-617a90c20a9e.png)<br>
   D.m.v. 'order' geef je pririoteit aan de volgorde van elementen.<br>
   
-  ![Visually-hidden](https://user-images.githubusercontent.com/118127943/207941703-910026b6-5773-4bd5-8a56-5b605c050be0.png)
+  ![Visually-hidden](https://user-images.githubusercontent.com/118127943/207941703-910026b6-5773-4bd5-8a56-5b605c050be0.png)<br>
   Hiermee maak je elementen onzichtbaar voor de gebruiker, maar leesbaar voor een screenreader
  
 
