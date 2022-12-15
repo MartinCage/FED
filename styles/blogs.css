@@ -91,7 +91,7 @@ main > section{
 }
 
 
-@media (min-width: 30em){
+@media (min-width: 48em){
     main{
         padding: 2em;
         top: 0;

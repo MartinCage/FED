@@ -385,7 +385,7 @@ main > section:last-of-type article button{
   
 /* ===== MEDIA QUERIES ===== */
 
-@media (min-width: 30em){
+@media (min-width: 48em){
     main{
         padding: 0 4em;
     }
