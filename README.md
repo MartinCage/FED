@@ -250,12 +250,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je uitkomst - karakteristiek screenshots:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
 
-
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik heb geleerd om te werken met CSS grid. Dit is compleet nieuw voor mij en vind het leuk dat ik iets nieuws heb geleerd.
+  ![grid](https://user-images.githubusercontent.com/118127943/207942063-eabbcd5b-6a7c-45fb-84e5-81a89706161c.png)
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+  Hiernaast heb ik nooit eerder een hamburger menu gemaakt die schaalt naar een 'normaal' menu.
+  
+  ![hamburger-menu](https://user-images.githubusercontent.com/118127943/207941280-03f7e7bd-9afb-43df-af1d-43c8d926430e.png)<br>
+  Mobiel menu<br>
+  
+  ![normaal-menu](https://user-images.githubusercontent.com/118127943/207941405-2dd137f1-5ea6-4de2-ac50-34eb61fff8b3.png)<br>
+  Normaal menu<br>
+  
+  Ook heb ik geleerd hoe je d.m.v. 'css order' elementen kan verplaatsen en hoe je elementen onzichtbaar maakt d.m.v. de bron: a11yproject
+  ![header-order](https://user-images.githubusercontent.com/118127943/207941535-3231bfa7-8e9f-4c1e-9193-617a90c20a9e.png)
+  D.m.v. 'order' geef je pririoteit aan de volgorde van elementen.<br>
+  
+  ![Visually-hidden](https://user-images.githubusercontent.com/118127943/207941703-910026b6-5773-4bd5-8a56-5b605c050be0.png)
+  Hiermee maak je elementen onzichtbaar voor de gebruiker, maar leesbaar voor een screenreader
+ 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
@@ -280,5 +293,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   Om de kleur van de zoek balk te veranderen heb ik ::placeholder opgezocht
   https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder
+  
+  Hoe verberg ik elementen:
+  https://www.a11yproject.com/posts/how-to-hide-content/
 
 </details>
