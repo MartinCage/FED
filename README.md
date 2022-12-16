@@ -249,7 +249,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je uitkomst - karakteristiek screenshots:
   
-  Beelden van mijn eindresultaat:
+  Beelden van mijn eindresultaat:<br>
   ![karakter1](https://user-images.githubusercontent.com/118127943/208088819-592eb77d-3624-4556-8e2a-15e4106a861c.png)<br>
   ![karakter2](https://user-images.githubusercontent.com/118127943/208088833-8c022dde-b0d9-4a5c-b97f-cbcd14070e6a.png)<br>
   ![karakter3](https://user-images.githubusercontent.com/118127943/208088831-029e6c3f-4e56-4d18-90d5-0c8b7e92d9ee.png)<br>
