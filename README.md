@@ -61,6 +61,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
   Ik ben met een screenreader door de website gegaan. Deze leest alle informatie voor. Het gebruik van een screenreader was nieuw voor mij en een uitdaging om erachter te komen hoe alles werkt. Ik heb meer inzichten gekregen in hoe een persoon met screenreader een website ervaart.
+  
+  In mijn website worden de elementen voorgelezen d.m.v. een screenreader. Er is rekening gehouden met de HTML structuur zodat er prioriteit wordt gegeven aan wat er als eerste wordt voorgelezen.<br>
+  ![Header-elementen](https://user-images.githubusercontent.com/118127943/208098295-f89c9669-e5ce-497a-ac0e-5e11919b0429.png)<br><br>
+
 
   #### Muis en Toetsenbord 
   Ik ben door de website van Dunkin heen gegaan met d.m.v. muis en toetsenbord. Opvallend is dat als men alleen met een toetsenbord door de website heen gaat er belangrijke informatie wordt overgeslagen. In mijn versie van de website ga ik dit zeker verbeteren door alle relevante informatie toegangkelijk te maken voor gebruikers met een visuele beperking.
@@ -75,7 +79,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - Dark mode voor mensen die gevoelig zijn voor licht
   - Duidelijk contrast, vormen zijn duidelijk en men kan zien waar ze beginnen en eindigen
   - Duidelijke labels bij elementen
- 
 </details>
 
 
