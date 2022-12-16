@@ -283,11 +283,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   Ook is het niet gelukt om op de blogs pagina een roze achtergrond te creeëren.<br>
   ![sectionPaars](https://user-images.githubusercontent.com/118127943/208094065-de4fc5ef-5d8d-4d90-b733-47a2e633b469.png)
-
-  
-
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
 
