@@ -248,7 +248,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  
+  Beelden van mijn eindresultaat:
+  ![karakter1](https://user-images.githubusercontent.com/118127943/208088819-592eb77d-3624-4556-8e2a-15e4106a861c.png)
+  ![karakter2](https://user-images.githubusercontent.com/118127943/208088833-8c022dde-b0d9-4a5c-b97f-cbcd14070e6a.png)
+  ![karakter3](https://user-images.githubusercontent.com/118127943/208088831-029e6c3f-4e56-4d18-90d5-0c8b7e92d9ee.png)
+  ![karakter4](https://user-images.githubusercontent.com/118127943/208088824-538622cd-62c7-4275-9c22-ee2327f66f3b.png)
 
   ### Dit ging goed/Heb ik geleerd: 
   Ik heb geleerd om te werken met CSS grid. Dit is compleet nieuw voor mij en vind het leuk dat ik iets nieuws heb geleerd.
