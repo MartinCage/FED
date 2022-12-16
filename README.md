@@ -252,7 +252,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Dit ging goed/Heb ik geleerd: 
   Ik heb geleerd om te werken met CSS grid. Dit is compleet nieuw voor mij en vind het leuk dat ik iets nieuws heb geleerd.
-  ![grid](https://user-images.githubusercontent.com/118127943/207942063-eabbcd5b-6a7c-45fb-84e5-81a89706161c.png)
+  ![grid](https://user-images.githubusercontent.com/118127943/207942063-eabbcd5b-6a7c-45fb-84e5-81a89706161c.png)<br>
+  ![grid-code](https://user-images.githubusercontent.com/118127943/208088377-de5ae609-9c88-452a-a354-79cd109f054d.png)
 
   Hiernaast heb ik nooit eerder een hamburger menu gemaakt die schaalt naar een 'normaal' menu.
   
