@@ -75,7 +75,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   We kregen een schokband op onze armen geplakt en hebben geprobeerd om gebruik te maken van de website. Wat mij opviel is dat simpele acties veel tijd kunnen kosten.  Daarom moeten acties zo min mogelijk moeite kosten om tot een eindresultaat te komen.
   
   Wat fijn is aan deze site is dat veel klikbare elementen groot zijn weergegeven. Mensen met bijvoorbeeld Parkinson kunnen hierdoor makkelijk acties verrichten binnen de site.
-  
+  ![image](https://user-images.githubusercontent.com/118127943/208103115-d95f345b-d16d-4373-a7da-bae70a376ead.png)
+
   
   #### Visueel (brillen, contrast, kleurenblind, dark/light).
   Elke bril had zijn eigen unieke 'belemmering'. Hierdoor kreeg ik een indruk wat mensen met beperkt zicht ervaren als ze een website bezoeken.
